@@ -1,1 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>landing Page</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lilita+One&display=swap" rel="stylesheet">
+    <link href="task1.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="bg1">
+        <div class="bg2">
+            <div class="flex">
+                <h2>WATCHY
+                </h2>
+                <h1 class="text">
+                    GET YOUR
+                </h1>
+                <h1 class="text1">
+                    <span> WATCH</span> NOW </h1>
+                <h4>A smartwatch is a wearable computing device that closely resembles a wristwatch or other time-keeping device. In addition to telling time, many smartwatches are Bluetooth-capable.</h4>
+                <button>Order Now</button>
+
+            </div>
+            <div class="felx2 ">
+                <ul type="none" class=" item ">
+                    <li>HOME </li>
+                    <li>FEATURES</li>
+                    <li>PRODUCT</li>
+                    <li>REVIEWS </li>
+
+                </ul>
+                <img src="https://media.wired.com/photos/59b81d725af0ac725071e798/1:1/w_1053,h_1053,c_limit/AppleWatchHP-846093534.jpg" alt="WATCH">
+            </div>
+        </div>
+</body>
+
+</html>
