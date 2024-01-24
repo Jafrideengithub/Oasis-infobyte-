@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Product Sans', sans-serif;
+}
+
+#welcome {
+    background-color: #150734;
+    padding-top: 150px;
+    height: 750px;
+}
+
+#welcome h1 {
+    color: #fff;
+}
+
+#welcome span {
+    color: orange;
+}
+
+#welcome h2 {
+    color: #fff;
+}
+
+#welcome p {
+    color: #fff;
+}
+
+#welcome button {
+    padding: 15px;
+    width: 150px;
+    margin-top: 30px;
+    background-color: orange;
+    border: none;
+    border-radius: 0px;
+}
+
+#welcome img {
+    width: 500px;
+    height: 500px;
+    border-radius: 70px 0px;
+}
+
+.details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.skills {
+    width: 200px;
+}
+
+h2 {
+    font-size: 48px;
+    font-weight: 200PX;
+}
+
+.project {
+    width: 300px;
+}
+
+.softskills {
+    width: 250px;
+}
+
+ul {
+    font-size: 24px;
+    margin-left: 25px;
+}
+
+#contact {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: #150734;
+    text-align: center;
+}
+
+#contact h1 {
+    color: orange;
+}
+
+#contact h5 {
+    color: #fff;
+}
+
+#contact a {
+    color: #fff;
+    text-decoration: none;
+}
